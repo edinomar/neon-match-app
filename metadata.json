@@ -1,0 +1,8 @@
+
+{
+  "name": "Neon Nebula Match-3",
+  "description": "A futuristic, neon-styled match-3 puzzle game layout featuring glassmorphism, 3D polished pieces, and high-quality UI/UX for mobile devices.",
+  "requestFramePermissions": [
+    "vibrate"
+  ]
+}
